@@ -1,0 +1,29 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+section {
+	background-color: rgba(0, 0, 0, 0.05);
+}
+
+.caixa {
+	padding: 60px 0;
+	border: 1px solid #e5e5e5;
+}
+
+footer {
+	background-color: rgba(0, 0, 0, 0.9);
+	height: 60px;
+}
+
+footer a {
+	color: white;
+}
+
+.botao-customizado {
+	padding: 5px;
+	border-radius: 10px;
+	border: none;
+	margin: 5px 2px;
+}
